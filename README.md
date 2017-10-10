@@ -1,4 +1,4 @@
-# Using the TelstraDev Messaging API in PHP to send a SMS
+# Using the Telstra Messaging API in PHP to send a SMS
 
 This is an example of the Telstra Messaging API using plain PHP to send a SMS.
 
@@ -8,7 +8,7 @@ This code does not use an SDK although it uses a basic wrapper to handle the API
 
 This demo uses
 
-* PHP
+* PHP 
 
 ## Requirements
 
